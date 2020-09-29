@@ -1,0 +1,6 @@
+[submodule "parity-scale-codec"]
+	path = parity-scale-codec
+	url = https://github.com/Zondax/parity-scale-codec
+[submodule "PySyft"]
+	path = PySyft
+	url = https://github.com/Zondax/PySyft
